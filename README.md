@@ -1,5 +1,7 @@
 # Faculdade
 Repositório da Faculdade de Ciência da Computação
+
+
 📚 Repositório de Trabalhos da Faculdade
 
 Este repositório tem como objetivo organizar e centralizar todos os meus trabalhos acadêmicos desenvolvidos durante o curso de Ciência da Computação.
